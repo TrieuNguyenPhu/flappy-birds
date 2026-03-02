@@ -1,4 +1,4 @@
-# 🎮 Flappy Bird Game - Clean Architecture!
+# 🎮 Flappy Bird Game - Clean Architecture
 
 A browser-based recreation of the classic Flappy Bird game built with **Next.js 14**, **TypeScript**, and **Clean Architecture** principles.
 
